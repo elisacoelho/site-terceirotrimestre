@@ -1,0 +1,53 @@
+.root {
+    .Açaí-1-hex {
+        color: #401E31;
+    }
+
+    .Açaí-2-hex {
+        color: #734960;
+    }
+
+    .Açaí-3-hex {
+        color: #361A2B;
+    }
+
+    .Açaí-4-hex {
+        color: #452032;
+    }
+
+    .Açaí-5-hex {
+        color: #27161E;
+    }
+
+    preto {
+        color: hsla(204, 97, 0, 1);
+    }
+
+    .G-GREY-500-900-1-hsla {
+        color: hsla(0, 0, 12, 1);
+    }
+
+    .G-GREY-500-900-2-hsla {
+        color: hsla(0, 0, 25, 1);
+    }
+
+    .G-GREY-500-900-3-hsla {
+        color: hsla(0, 0, 38, 1);
+    }
+
+    .G-GREY-500-900-4-hsla {
+        color: hsla(0, 0, 45, 1);
+    }
+
+    .G-GREY-500-900-5-hsla {
+        color: hsla(0, 0, 61, 1);
+    }
+
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;1,100&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
+/* font-family: 'Montserrat', sans-serif; */
+
